@@ -24,3 +24,8 @@ source ~/.bashrc
 ```
 conda activate <环境名>
 ```
+* 如果只是想要查看当前cuda版本，执行如下指令
+```
+nvcc -V
+```
+  
