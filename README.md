@@ -28,4 +28,8 @@ conda activate <环境名>
 ```
 nvcc -V
 ```
+* 如果要查看当前显卡的占用，输入
+```
+nvidia-smi
+```
   
