@@ -34,6 +34,12 @@ nvidia-smi
 ```
 * 查看当前服务器所有cuda版本
 ```
-ls -l/usr/local | grep cuda
+cd /
+```
+```
+cd /usr/local
+```
+```
+ls
 ```
   
