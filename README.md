@@ -42,4 +42,9 @@ cd /usr/local
 ```
 ls
 ```
+* 查看当前服务器cudnn版本
+```
+cat /usr/local/cuda/include/cudnn.h | grep CUDNN_MAJOR -A 2
+```
+
   
